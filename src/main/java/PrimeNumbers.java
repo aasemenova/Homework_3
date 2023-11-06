@@ -7,7 +7,7 @@ public class PrimeNumbers {
         System.out.println("Введите число:");
         int num = scanner.nextInt();
 
-        boolean isPrime = true;
+        boolean isPrime = true1;
 
         if (num <= 1) {
             System.out.println("Это число не является ни простым, ни составным");
